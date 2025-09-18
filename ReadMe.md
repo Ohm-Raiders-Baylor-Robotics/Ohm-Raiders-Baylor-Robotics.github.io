@@ -1,7 +1,7 @@
 # Welcome!
 Welcome to the beginner's guide to using Kotlin in your FTC codebase!
 
-## Whom is this guide for?
+## Who is this guide for?
 This guide assumes **no prior programming knowledge** other than basic Kotlin, but no other FTC programming knowledge is necessary. This guide is meant for **absolute beginners** and serves to act as a **foundation** for your FTC programming journey.
 
 ## Why Kotlin?
