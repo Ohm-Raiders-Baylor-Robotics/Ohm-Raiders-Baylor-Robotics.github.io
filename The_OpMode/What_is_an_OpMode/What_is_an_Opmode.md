@@ -7,7 +7,7 @@ There are two types of classes that can be extended to make an OpMode: **linearO
 
 The general rule is that code in a regular OpMode is divided up based on the **conditions** where it will be executed, while code in a LinearOpMode runs **consecutively** using methods to pause execution.
 
-## LinearOpMode
+## LinearOpMode 
 
 Here are the most important methods included in the LinearOpMode class. Certain methods have been excluded because they aren't needed for amateur programmers, but you can find all of them in FIRST's documentation.
 
